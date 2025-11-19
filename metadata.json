@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gomoku Zero",
+  "description": "A high-level Gomoku (Five-in-a-Row) game where you play against Google's Gemini AI. It simulates an AlphaZero-style analysis process, providing reasoning and win-rate estimations for every move.",
+  "requestFramePermissions": []
+}
